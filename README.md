@@ -2,7 +2,7 @@
 
 This is my first app to learn how to create apps using swift language.
 
-## What doest the do?
+## What does the app do?
 
 Every time you press the button to randomize a photo,
 a new photo and a random background color are shown.
